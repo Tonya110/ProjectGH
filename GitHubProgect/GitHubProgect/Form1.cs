@@ -19,7 +19,7 @@ namespace GitHubProgect
 
         private void Form1_Load(object sender, EventArgs e)
         {
-
+            //dhsghdgshdgshgdhsdgshg
         }
 
         private void S_Click(object sender, EventArgs e)
